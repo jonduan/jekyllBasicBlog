@@ -9,7 +9,7 @@ gems:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-url: ""
+url: "http://jonduan.github.io/jekyllBasicBlog"
 enforce_ssl: ""
 baseurl: "/jekyllBasicBlog"
 
@@ -31,9 +31,11 @@ avatar: "/img/avatar.jpg"
 # List of links in the navigation bar
 nav-links:
   Home: ""
-  Travel: "travel"
-  About Me: "aboutme"
+#  Travel: "travel"
+
+  Categories: "categories"
   Archive: "archive"
+  About: "aboutme"  
   Contact: "contact"  
   
 # --- Footer options --- #
